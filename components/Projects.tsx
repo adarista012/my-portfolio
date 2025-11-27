@@ -154,7 +154,7 @@ const projects = [
       'Postman API',
       'Mobile Applications'
     ],
-    url: ''
+    url: 'https://aseguradoradelsur.com/home'
   }
 ]
 
