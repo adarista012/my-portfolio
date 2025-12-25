@@ -2,199 +2,178 @@ const projects = [
   {
     company: 'LUCID',
     role: 'Senior React Native Developer',
-    period: 'Aug 2025 - Present · 4 mos',
+    period: 'Aug 2025 - Present',
     location: 'Canada · Remote',
     description: [
-      'Built a music & biometrics recovery app with FaceMesh, HRV, and breathing tracking.',
-      'Reduced onboarding friction by 40% using clean architecture and performant React Native patterns.'
+      'Architected a music & biometrics recovery application featuring FaceMesh, HRV, and respiratory tracking.',
+      'Reduced onboarding friction by 40% using Clean Architecture and high-performance React Native design patterns.'
     ],
-    tech: [
-      'React Native',
-      'Health',
-      'SwiftUI',
-      'Swift',
-      'Health Tech',
-      'Medical Technology'
-    ],
+    tech: ['React Native', 'HealthKit', 'SwiftUI', 'Swift', 'MedTech'],
     url: 'https://www.linkedin.com/company/thelucidproject/'
   },
   {
     company: 'Vureloapp',
     role: 'Flutter Engineer',
-    period: 'May 2025 - Jul 2025 · 3 mos',
-    location: 'Bogota, Colombia · Remote',
+    period: 'May 2025 - Jul 2025',
+    location: 'Colombia · Remote',
     description: [
-      'Developed a crypto wallet integrated with blockchain APIs.',
-      'Implemented secure user authentication and optimized transaction flows.'
+      'Engineered a secure cryptocurrency wallet integrated with blockchain APIs.',
+      'Optimized transaction flows and implemented robust user authentication protocols.'
     ],
-    tech: ['Flutter'],
+    tech: ['Flutter', 'Blockchain', 'Crypto APIs'],
     url: 'https://www.vureloapp.com'
   },
   {
     company: 'King Tide',
     role: 'Flutter Engineer',
-    period: 'Apr 2024 - Mar 2025 · 1 yr',
+    period: 'Apr 2024 - Mar 2025',
     location: 'Los Angeles, USA · Remote',
     description: [
-      'Developed a fully functional iOS app from scratch using Flutter, integrating Firebase OTP, Sentry, and Stripe.'
+      'Developed a full-scale iOS application from the ground up using Flutter, integrating Firebase OTP, Sentry, and Stripe payments.'
     ],
-    tech: ['Flutter', 'Dart', 'Firebase OTP', 'Sentry', 'Stripe'],
+    tech: ['Flutter', 'Dart', 'Firebase', 'Sentry', 'Stripe'],
     url: 'https://buzzstar.io/'
   },
   {
     company: 'HelloWellness',
-    role: 'Mobile Engineer, Data Analyst',
-    period: 'Dec 2023 - May 2024 · 6 mos',
+    role: 'Mobile Engineer & Data Analyst',
+    period: 'Dec 2023 - May 2024',
     location: 'California, USA · Remote',
     description: [
-      'Developed iOS apps from scratch using SwiftUI & React Native, implemented HealthKit and HIPAA-compliant data analysis.',
-      'Analyzed and displayed patient data using scikit-learn.'
+      'Built native iOS applications using SwiftUI & React Native, implementing HealthKit and HIPAA-compliant data processing.',
+      'Leveraged Scikit-Learn to analyze and visualize complex patient health metrics.'
     ],
-    tech: [
-      'React Native',
-      'SwiftUI',
-      'Python',
-      'TypeScript',
-      'Scikit-Learn',
-      'Bubble.io'
-    ],
+    tech: ['React Native', 'SwiftUI', 'Python', 'Scikit-Learn'],
     url: 'https://hellowellness.ai/motion/'
   },
   {
     company: 'UR International',
     role: 'Freelance Mobile Developer',
-    period: 'Oct 2023 - Jan 2024 · 4 mos',
+    period: 'Oct 2023 - Jan 2024',
     location: 'Texas, USA · Remote',
     description: [
-      'Developed new views and implemented native functions like camera on the app.',
-      'Applied clean code and clean architecture, integrated backend and frontend.'
+      'Engineered native camera functionalities and custom UI views for enterprise mobile solutions.',
+      'Applied Clean Code principles and Clean Architecture to ensure backend-frontend synchronization.'
     ],
-    tech: ['Flutter', 'Microsoft Azure', 'Postman API'],
+    tech: ['Flutter', 'Azure', 'Postman API'],
     url: ''
   },
   {
     company: 'Develoop Software',
     role: 'Mobile Engineer',
-    period: 'Jun 2023 - Sep 2023 · 4 mos',
+    period: 'Jun 2023 - Sep 2023',
     location: 'Barcelona, Spain · Remote',
     description: [
-      'Developed iOS app using UIKit and Bluetooth to connect with specific hardware.',
-      'Reduced app resource usage and performed maintenance on existing apps.'
+      'Developed iOS applications using UIKit and Bluetooth Low Energy (BLE) to interface with specialized hardware.',
+      'Optimized app resource consumption and maintained legacy iOS applications.'
     ],
-    tech: ['Flutter', 'SwiftUI', 'UIKit', 'iOS', 'REST API', 'Odoo', 'IoT'],
+    tech: ['UIKit', 'SwiftUI', 'IoT', 'Odoo API'],
     url: ''
   },
   {
     company: 'CECASEM',
     role: 'Mobile Developer',
-    period: 'Jul 2023 - Aug 2023 · 2 mos',
-    location: 'La Paz, Bolivia · Remote',
+    period: 'Jul 2023 - Aug 2023',
+    location: 'Bolivia · Remote',
     description: [
-      "Developed a survey app to measure child malnutrition in Bolivia's communities.",
-      'Displayed and analyzed data, created actionable solutions.'
+      'Developed a data-driven survey app to measure child malnutrition in rural communities.',
+      'Analyzed community data to create actionable health solutions.'
     ],
-    tech: [
-      'Flutter',
-      'Firebase',
-      'Google Sheets',
-      'Mobile Product Development'
-    ],
-    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7096688000931090432?utm_source=share&utm_medium=member_desktop&rcm=ACoAADO6jDoBHc-m1pNTajlyEiJ0Yg93cWWGD7I'
+    tech: ['Flutter', 'Firebase', 'Google Sheets API'],
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7096688000931090432'
   },
   {
     company: 'Klopp',
     role: 'Front-end Mobile Flutter Developer',
-    period: 'Jun 2022 - Nov 2022 · 6 mos',
+    period: 'Jun 2022 - Nov 2022',
     location: 'Mexico · Remote',
     description: [
-      'Reduced resource consumption of mobile app applying clean code concepts.',
-      'Integrated backend and frontend, implemented new views and features based on Figma designs.'
+      'Significant reduction in app resource usage by applying Clean Code concepts.',
+      'Integrated GraphQL backends with high-fidelity Figma designs.'
     ],
-    tech: ['Flutter', 'Swift', 'GraphQL', 'Figma', 'GitLab', 'Postman API'],
+    tech: ['Flutter', 'Swift', 'GraphQL', 'Figma'],
     url: 'https://landing.klopp.mx/Inicio'
   },
   {
     company: 'Grupo COGNOS',
     role: 'Substitute Instructor',
-    period: 'Jan 2022 - Nov 2022 · 11 mos',
-    location: 'Santa Cruz, Bolivia · Remote',
+    period: 'Jan 2022 - Nov 2022',
+    location: 'Bolivia · Remote',
     description: [
-      'Taught UI/UX concepts and Figma.',
-      'Explained OOP concepts and applied them to create apps in Flutter and Java.'
+      'Taught UI/UX design concepts and Figma best practices.',
+      'Educated students on OOP principles and cross-platform app development using Flutter and Java.'
     ],
-    tech: ['Figma', 'Slack', 'Dart', 'Swift', 'Java', 'OOP'],
+    tech: ['Figma', 'Dart', 'Java', 'OOP'],
     url: ''
-  },
-  {
-    company: 'Estacion Vital',
-    role: 'Senior Flutter Developer',
-    period: 'Aug 2022 - Oct 2022 · 3 mos',
-    location: 'Nicaragua · Remote',
-    description: [
-      'Updated app to new version and published to stores.',
-      'Enhanced Firebase services, implemented new features and reduced bugs.'
-    ],
-    tech: ['Flutter', 'Swift', 'Firebase', 'JIRA', 'Figma', 'Google Analytics'],
-    url: 'https://ni.linkedin.com/company/estacionvital'
-  },
-  {
-    company: 'Itzam Development Design',
-    role: 'Mobile App Developer',
-    period: 'Nov 2021 - Jul 2022 · 9 mos',
-    location: 'Quito, Ecuador · Remote',
-    description: [
-      'Developed new app views with Figma designs, applied clean code and architecture.',
-      'Integrated backend and frontend, collected metrics from specialized IoT hardware.'
-    ],
-    tech: [
-      'Flutter',
-      'Swift',
-      'Figma',
-      'Node.js',
-      'Postman API',
-      'Mobile Applications'
-    ],
-    url: 'https://aseguradoradelsur.com/home'
   }
 ]
-
 export default function Projects() {
   return (
-    <section id='projects' className='py-20 px-8 text-white'>
-      <h2 className='text-3xl font-bold mb-10 text-center'>
-        Projects & Experience
+    <section id='projects' className='py-24 max-w-5xl mx-auto px-6'>
+      <h2 className='text-4xl md:text-5xl font-bold mb-16 tracking-tight text-left'>
+        Featured Experience
       </h2>
 
-      <div className='space-y-8'>
+      <div className='grid grid-cols-1 gap-8'>
         {projects.map((p, i) => (
+          /* Cambiamos el div por un 'a' y nos aseguramos que sea un bloque clicable */
           <a
             key={i}
-            href={p.url}
-            target='_blank'
+            href={p.url || '#'}
+            target={p.url ? '_blank' : '_self'}
             rel='noopener noreferrer'
-            className='block border border-gray-700 p-6 rounded-lg hover:bg-gray-800 transition'
+            className={`group relative block bg-card-bg border border-white/5 rounded-[2.5rem] p-8 md:p-12 hover:border-white/20 transition-all duration-500 backdrop-blur-xl shadow-2xl ${
+              !p.url && 'cursor-default'
+            }`}
           >
-            <h3 className='text-xl font-semibold'>{p.company}</h3>
-            <p className='text-gray-400'>
-              {p.role} · {p.period} · {p.location}
-            </p>
+            <div className='flex flex-col md:flex-row justify-between items-start mb-6'>
+              <div className='text-left'>
+                <h3 className='text-2xl md:text-3xl font-bold tracking-tight text-white group-hover:text-apple-blue transition-colors'>
+                  {p.company}
+                </h3>
+                <p className='text-lg font-medium text-apple-blue mt-1'>
+                  {p.role}
+                </p>
+              </div>
+              <div className='mt-2 md:mt-0 text-left md:text-right'>
+                <p className='text-xs font-mono uppercase tracking-[0.2em] text-apple-gray'>
+                  {p.period}
+                </p>
+                <p className='text-sm text-gray-500 mt-1'>{p.location}</p>
+              </div>
+            </div>
 
-            <ul className='list-disc ml-6 mt-3 text-gray-300 space-y-1'>
-              {p.description.map((d, idx) => (
-                <li key={idx}>{d}</li>
+            <ul className='space-y-4 mb-8 text-left'>
+              {p.description.map((desc, idx) => (
+                <li
+                  key={idx}
+                  className='text-gray-400 leading-relaxed text-lg flex items-start'
+                >
+                  <span className='mr-3 text-white/20 mt-1.5'>•</span>
+                  {desc}
+                </li>
               ))}
             </ul>
 
-            <div className='mt-3 flex flex-wrap gap-2'>
-              {p.tech.map((t, idx) => (
+            <div className='flex flex-wrap gap-2 mb-8'>
+              {p.tech.map((t) => (
                 <span
-                  key={idx}
-                  className='bg-gray-700 px-2 py-1 rounded text-sm'
+                  key={t}
+                  className='px-4 py-1.5 bg-white/5 border border-white/5 rounded-full text-xs font-medium text-gray-300 group-hover:bg-white/10 transition-colors'
                 >
                   {t}
                 </span>
               ))}
             </div>
+
+            {p.url && (
+              <div className='inline-flex items-center text-sm font-bold text-blue-400 group-hover:text-blue-300 transition-all'>
+                View Project Details
+                <span className='ml-2 transform group-hover:translate-x-1 transition-transform'>
+                  →
+                </span>
+              </div>
+            )}
           </a>
         ))}
       </div>
